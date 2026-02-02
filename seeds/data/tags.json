@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "tag_name": "Vegan"
+  },
+  {
+    "id": 2,
+    "tag_name": "Vegetarian"
+  },
+  {
+    "id": 3,
+    "tag_name": "Gluten-Free"
+  },
+  {
+    "id": 4,
+    "tag_name": "Kids"
+  },
+  {
+    "id": 5,
+    "tag_name": "Spicy"
+  },
+  {
+    "id": 6,
+    "tag_name": "Dairy-Free"
+  },
+  {
+    "id": 7,
+    "tag_name": "Nut-Free"
+  },
+  {
+    "id": 8,
+    "tag_name": "Chef's Special"
+  }
+]

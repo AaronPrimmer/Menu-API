@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "item_name": "Spinach Artichoke Dip",
+    "price": 9.99,
+    "in_stock": true,
+    "section_id": 1
+  },
+  {
+    "id": 2,
+    "item_name": "Buffalo Wings",
+    "price": 12.99,
+    "in_stock": true,
+    "section_id": 1
+  },
+  {
+    "id": 3,
+    "item_name": "Mozzarella Sticks",
+    "price": 8.99,
+    "in_stock": false,
+    "section_id": 1
+  },
+  {
+    "id": 4,
+    "item_name": "Spring Rolls",
+    "price": 7.99,
+    "in_stock": true,
+    "section_id": 1
+  },
+  {
+    "id": 5,
+    "item_name": "Grilled Salmon",
+    "price": 24.99,
+    "in_stock": true,
+    "section_id": 2
+  },
+  {
+    "id": 6,
+    "item_name": "Ribeye Steak",
+    "price": 32.99,
+    "in_stock": true,
+    "section_id": 2
+  },
+  {
+    "id": 7,
+    "item_name": "Chicken Parmesan",
+    "price": 18.99,
+    "in_stock": true,
+    "section_id": 2
+  },
+  {
+    "id": 8,
+    "item_name": "Vegetable Stir Fry",
+    "price": 15.99,
+    "in_stock": true,
+    "section_id": 2
+  },
+  {
+    "id": 9,
+    "item_name": "Pasta Primavera",
+    "price": 16.99,
+    "in_stock": false,
+    "section_id": 2
+  },
+  {
+    "id": 10,
+    "item_name": "Kids Mac and Cheese",
+    "price": 6.99,
+    "in_stock": true,
+    "section_id": 2
+  },
+  {
+    "id": 11,
+    "item_name": "Chocolate Lava Cake",
+    "price": 7.99,
+    "in_stock": true,
+    "section_id": 3
+  },
+  {
+    "id": 12,
+    "item_name": "Cheesecake",
+    "price": 6.99,
+    "in_stock": true,
+    "section_id": 3
+  },
+  {
+    "id": 13,
+    "item_name": "Fruit Sorbet",
+    "price": 5.99,
+    "in_stock": true,
+    "section_id": 3
+  },
+  {
+    "id": 14,
+    "item_name": "Tiramisu",
+    "price": 8.99,
+    "in_stock": false,
+    "section_id": 3
+  },
+  {
+    "id": 15,
+    "item_name": "Coca-Cola",
+    "price": 2.99,
+    "in_stock": true,
+    "section_id": 4
+  },
+  {
+    "id": 16,
+    "item_name": "Fresh Lemonade",
+    "price": 3.99,
+    "in_stock": true,
+    "section_id": 4
+  },
+  {
+    "id": 17,
+    "item_name": "Iced Tea",
+    "price": 2.99,
+    "in_stock": true,
+    "section_id": 4
+  },
+  {
+    "id": 18,
+    "item_name": "Coffee",
+    "price": 2.49,
+    "in_stock": true,
+    "section_id": 4
+  },
+  {
+    "id": 19,
+    "item_name": "French Fries",
+    "price": 4.99,
+    "in_stock": true,
+    "section_id": 5
+  },
+  {
+    "id": 20,
+    "item_name": "Garden Salad",
+    "price": 5.99,
+    "in_stock": true,
+    "section_id": 5
+  },
+  {
+    "id": 21,
+    "item_name": "Garlic Bread",
+    "price": 3.99,
+    "in_stock": true,
+    "section_id": 5
+  },
+  {
+    "id": 22,
+    "item_name": "Steamed Vegetables",
+    "price": 4.99,
+    "in_stock": true,
+    "section_id": 5
+  }
+]

@@ -15,7 +15,9 @@
   "type": "commonjs",
   "main": "menuAPI.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon menuAPI.js",
+    "seed": "node --env-file=.env seeds/index.js"
   },
   "dependencies": {
     "express": "^4.18.2",

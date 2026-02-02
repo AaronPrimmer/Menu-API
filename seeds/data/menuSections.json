@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "section_name": "Appetizers"
+  },
+  {
+    "id": 2,
+    "section_name": "Entrees"
+  },
+  {
+    "id": 3,
+    "section_name": "Desserts"
+  },
+  {
+    "id": 4,
+    "section_name": "Beverages"
+  },
+  {
+    "id": 5,
+    "section_name": "Sides"
+  }
+]
