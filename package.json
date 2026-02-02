@@ -16,7 +16,7 @@
   "main": "menuAPI.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon menuAPI.js",
+    "start": "nodemon --env-file=.env menuAPI.js",
     "seed": "node --env-file=.env seeds/index.js"
   },
   "dependencies": {

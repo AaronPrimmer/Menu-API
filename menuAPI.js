@@ -1,4 +1,5 @@
 const express = require("express");
+const sequelize = require("./config/connection");
 const routes = require("./routes");
 
 const app = express();
@@ -16,3 +17,15 @@ app.get("/", (req, res) => {
 });
 
 app.use(routes);
+
+sequelize
+  .sync()
+  .then(() => {
+    console.log("Database connected & models synced");
+    console.log(`Server listening on http://localhost:${PORT}`);
+    app.listen(PORT);
+  })
+  .catch((error) => {
+    console.error("Failed to start server:", error);
+    process.exit(1);
+  });

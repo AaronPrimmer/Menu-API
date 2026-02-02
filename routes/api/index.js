@@ -1,4 +1,4 @@
-const router = require("express").Router;
+const router = require("express").Router();
 
 const sectionRoutes = require("./sectionRoutes");
 const itemRoutes = require("./itemRoutes");
