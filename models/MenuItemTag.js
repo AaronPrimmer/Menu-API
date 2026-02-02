@@ -7,8 +7,20 @@ MenuItemTag.init(
   {
     item_id: {
       type: DataTypes.INTEGER,
-      primaryKey: true,
+      allowNull: false,
+    },
+    tag_id: {
+      type: DataTypes.INTEGER,
+      allowNull: false,
     },
   },
-  {},
+  {
+    sequelize,
+    timestamps: false,
+    freezeTableName: true,
+    underscored: true,
+    modelName: "menu_item_tag",
+  },
 );
+
+module.exports = MenuItemTag;

@@ -23,3 +23,5 @@ MenuSection.init(
     modelName: "menu_section",
   },
 );
+
+module.exports = MenuSection;
