@@ -35,7 +35,6 @@ router.get("/:id", async (req, res) => {
 router.post("/", async (req, res) => {
   try {
     const tag_body = req.body.item_ids || [];
-    console.log(tag_body);
     if (
       req.body.item_name &&
       req.body.price &&
