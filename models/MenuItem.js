@@ -21,7 +21,7 @@ MenuItem.init(
     },
     in_stock: {
       type: DataTypes.BOOLEAN,
-      defaultValue: false,
+      defaultValue: true,
     },
     section_id: {
       type: DataTypes.INTEGER,

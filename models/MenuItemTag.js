@@ -5,6 +5,11 @@ class MenuItemTag extends Model {}
 
 MenuItemTag.init(
   {
+    id: {
+      type: DataTypes.INTEGER,
+      primaryKey: true,
+      autoIncrement: true,
+    },
     item_id: {
       type: DataTypes.INTEGER,
       allowNull: false,
